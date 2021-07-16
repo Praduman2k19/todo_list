@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(250, 235, 215, 0.251);
+}
+#heading{
+text-align: center;
+}
+#box{ display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#input{
+   width: fit-content;
+   margin: 0px;
+   background-color: rgb(109, 184, 109);
+}
+input,button{
+    margin: 20px;
+}
